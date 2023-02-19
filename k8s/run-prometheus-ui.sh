@@ -1,0 +1,1 @@
+kubectl port-forward svc/kube-stack-prometheus-kube-prometheus 9090 -n prometheus
